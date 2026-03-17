@@ -1,4 +1,6 @@
-# Experiment 2: DDL Commands
+# EXPERIMENT 2: DDL Commands
+## NAME : RUSHMITHA R
+## REGISTRATION  NUMBER : 212224040281
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
