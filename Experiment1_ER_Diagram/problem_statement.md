@@ -25,7 +25,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 ### ER Diagram:
  
-<img src="https://img.sanishtech.com/u/9ba16662a96a8d5fb95524b7b489cd6d.png" alt="DBMS PROB 1" width="1382" height="895" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/d45c3d3343b4f5711af60e86571cf0de.png" alt="image (1)" loading="lazy" style="max-width:100%;height:auto;">
 
 
 ### Entities and Attributes
@@ -72,7 +72,8 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-<img src="https://img.sanishtech.com/u/b75611b01096ad20e080a5fafa58493e.png" alt="DBMS PROB 2" width="1645" height="896" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/74ce20b81093505400a61cf2172b79f6.png" alt="image (3)" loading="lazy" style="max-width:100%;height:auto;">
+
 
 ### Entities and Attributes
 | Entity            | Attributes (PK, FK)                                                       | Notes                                           |
@@ -121,7 +122,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-<img src="https://img.sanishtech.com/u/c25522a61c9a97b3a6239e03a55941ff.png" alt="DBMS PROB 3" width="1632" height="912" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/05a6db4d1c62cc38ec5711403d26994e.png" alt="image (2)" width="1632" height="912" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Entities and Attributes
 
